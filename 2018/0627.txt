@@ -1,0 +1,2 @@
+docker image 和传统的打包方式相比, 本质优势是什么?
+container linux 是否有必要?
