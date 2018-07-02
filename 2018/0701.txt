@@ -2,7 +2,7 @@
 
 
 os 是 programming 的 base (programmable)
-我需要了解从kernel到user mode的一切.
+我需要了解从kernel到user mode的一切, 进而认识container os.
 
 arch
 driver
