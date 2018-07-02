@@ -4,6 +4,8 @@
 os 是 programming 的 base (programmable)
 我需要了解从kernel到user mode的一切.
 
+arch
+driver
 kernel 
   sched
   mm
@@ -11,4 +13,5 @@ kernel
   ipc
   net
   virt
-user
+
+user mode
