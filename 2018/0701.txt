@@ -2,4 +2,13 @@
 
 
 os 是 programming 的 base (programmable)
-学习 os 的外围是我的目的.
+我需要了解从kernel到user mode的一切.
+
+kernel 
+  sched
+  mm
+  fs
+  ipc
+  net
+  virt
+user
