@@ -2,7 +2,7 @@
 
 关于人际关系, 还有诸多疑问.
 
-os 是 programming 的 base (programmable)
+os 是 programming 的 base (programmable), 其最核心的功能即加载可执行文件(比如elf)到内存中运行(进程).
 我需要了解从kernel到user mode的一切, 进而认识container os.
 
 arch
