@@ -1,4 +1,5 @@
-当兵?
+当兵 ?
 
 
 os 是 programming 的 base (programmable)
+学习 os 的外围是我的目的.
